@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    text-align: center; 
+    color: white;
+    background-color: burlywood;
+}
+
+
+ul {
+    display: inline-block;
+    text-align: left;
+    font-size: 25px;
+}
+
+h1 {
+    border: 20;
+    border-color: white;
+    font-size: 50px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
