@@ -6,7 +6,7 @@ body {
 }
 
 
-ul {
+ul, ol {
     display: inline-block;
     text-align: left;
     font-size: 25px;
